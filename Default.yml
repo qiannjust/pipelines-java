@@ -28,4 +28,4 @@ steps:
     script: |
       # Write your commands here
       
-      echo $TEST
+      echo $test
